@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>小光的博客</title><link href="/" rel="alternate"></link><link href="/feeds/linux.atom.xml" rel="self"></link><id>/</id><updated>2013-05-17T00:00:00+08:00</updated><entry><title>修改默认的文件管理</title><link href="/xiu-gai-mo-ren-de-wen-jian-guan-li.html" rel="alternate"></link><updated>2013-05-17T00:00:00+08:00</updated><author><name>wxg</name></author><id>tag:,2013-05-17:xiu-gai-mo-ren-de-wen-jian-guan-li.html</id><summary type="html">&lt;p&gt;机器里面安装了四个文件管理器：nautilus(gnome-shell),thunar,rox,pcmanfm。--这几个文件管理器，各有各的用处，随着对rox了解的加深，其它的慢慢就不用了--，在awesome下，默认是pcmanfm，于是换成rox,
+&lt;pre&gt;xdg-mime default rox.desktop x-scheme-handler/file&lt;/pre&gt;
+这货速度飞快。&lt;/p&gt;</summary><category term="备忘"></category></entry></feed>
